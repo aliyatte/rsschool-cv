@@ -1,7 +1,7 @@
 # **Rolling Scopes School**
 
 
-## **Aliya Akmatova**
+## **Aliya O. Akmatova**
 
 
 ## **Contacts**
