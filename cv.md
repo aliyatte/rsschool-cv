@@ -4,7 +4,7 @@
 ## **Aliya Akmatova**
 
 
-### **Contacts**
+## **Contacts**
 
 - **Location**: Bishkek, Kyrgyzstan
 - **Phone**: +996(555)890423
@@ -12,7 +12,7 @@
 - **Telegram**: @Aliyatte
 ------------------------------------------------------------------------------------------------------------------------
 
-### **About Me**
+## **About Me**
 
 I want to become a coder who will be able to create useful and easy-to-understand applications of high quality and 
 demand for people and organizations. And it doesn't matter whether it is a front-end, back-end or full-stack.
@@ -28,7 +28,7 @@ and refresh my level of understanding in web development and get a dream job.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### **Skills**
+## **Skills**
 
 - HTML/CSS
 - JavaScript
@@ -36,32 +36,32 @@ and refresh my level of understanding in web development and get a dream job.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### **Code Example**
+## **Code Example**
 
 `console.log('Hello, World, I am back!');`
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### **Projects**
+## **Projects**
 
 *Educational project was removed from GitHub*
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### **Education**
+## **Education**
 
-#### **General education**
+### **General education**
 
 - Kyrgyz Russian Slavonic University, Law Department, Bachelor's Program
 - International University of Japan, International Development Program, Master's Program
 
-#### **IT education**
+### **IT education**
 
 - IT-Attractor School, JavaScript full-stack web developer, 2-years program
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### **Languages**
+## **Languages**
 
 - Kyrgyz (native)
 - Russian (native)
