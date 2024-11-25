@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aliyatte.github.io/rsschool-cv/cv
