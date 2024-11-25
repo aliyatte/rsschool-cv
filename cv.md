@@ -36,6 +36,10 @@ Aide <br>
 * Text editing (Russian) <br>
 * JavaScript (beginner's level) <br>
 
+## **Code examples**
+
+(n/a)
+
 ## **Languages**
 
 * Russian/Kyrgyz (mother tongue) <br>
